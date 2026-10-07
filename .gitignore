@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+Fedora-Server-dvd-x86_64-44-1.7.iso
+
+# Project artifacts
+iso/
+build/
+*.iso
